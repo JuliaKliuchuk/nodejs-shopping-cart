@@ -1,5 +1,4 @@
-[
-  {
+[{
     "id": 1,
     "title": "Apples",
     "description": "Apples are <span class=\"label label-info\">25 CHF each</span>",
